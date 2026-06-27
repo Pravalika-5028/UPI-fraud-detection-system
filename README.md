@@ -115,4 +115,3 @@ The model is evaluated using:
 
 **Pravalika**
 
-If you found this project helpful, don't forget to ⭐ the repository.
