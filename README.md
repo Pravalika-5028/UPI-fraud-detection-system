@@ -112,7 +112,6 @@ The model is evaluated using:
 
 
 # Author
-Pravalika
 
 **Pravalika**
 
